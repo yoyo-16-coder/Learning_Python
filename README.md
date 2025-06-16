@@ -22,13 +22,13 @@ These folders will have 2 files:
 | 16  | Fill-in the blank lyrics    | [Day_16](./day14_to_day20/Day16_Fill-in_the_blank_lyrics)     |
 | 17  | Rock Paper Scissors Part 2  | [Day_17](./day14_to_day20/Day17_Rock_paper_scissors_Part_2)   |
 | 18  | Number Guessing Game        | [Day_18](./day14_to_day20/Day18_Number_Guessing_Game)         |
-| 19  | Loan Calculator             | [Day_19](./day14_to_day20/Day19_Loan_Generator)               |
+| 19  | Loan Calculator             | [Day_19](./day14_to_day20/Day19_Loan_Calculator)              |
 | 20  | List Generator              | [Day_20](./day14_to_day20/Day20_List_Generator)               |
 | 21  | Multiplication Quiz         | [Day_ 21](./day21_to_day40/Day21_Multiplication_Quiz)         |
 | 22  | Number Guessing Game Part 2 | [Day_ 22](./day21_to_day40/Day22_Number_Guessing_Game_Part_2) |
 | 23  | Login System                | [Day_ 23](./day21_to_day40/Day23_Login_System)                |
 | 24  | Infinity Dice               | [Day_ 24](./day21_to_day40/Day24_Infinity_Dice)               |
-| 25  | Character Generator         | [Day_ 25](./day21_to_day40/Day25_Charactor_Generator)         |
+| 25  | Character Generator         | [Day_ 25](./day21_to_day40/Day25_Character_Generator)         |
 | 26  | Sound Player                | [Day_ 26](./day21_to_day40/Day26_Sound_Player)                |
 | 27  | Character Builder           | [Day_ 27](./day21_to_day40/Day27_Character_Builder)           |
 | 28  | Character Battle            | [Day_ 28](./day21_to_day40/Day28_Character_Battle)            |
