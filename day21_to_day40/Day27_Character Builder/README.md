@@ -1,0 +1,3 @@
+## Character Builder
+- Uses 2 subroutines- healthstat and strength. Color coded as well. Time and os libraries. 
+- Asks user their name, character type (I might add different points for different character types, like wizard could get an extra +2 points for strength or an elf could get extra +3 points for health etc.) Calls subroutine healthstat and strength. These subroutines call out different random numbers of different ranges, multiplies them, divides by 2 +10 (for health) and + 12 (for strength). Keeps the page on for set amount of time, then asks if the user wants to again, since it is looped, it clears the prev screen and then restarts over.
