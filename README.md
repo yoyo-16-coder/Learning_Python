@@ -1,19 +1,19 @@
-# Python_100_days_challenge 
+# Python_100_days_challenge 🚀
 
  Welcome to my **Python 100 Days of Code** journey!
 
  I'm documenting my learning, one day at a time, with Replit's python excercises, projects and concepts.
 
 
-## Structure
-Replit's 100 days of code ia a tough challenge. So to keep this repository from getting cluttered, I have divided days into folders with an increment of 20 days. So, we have a folder named "day14_to_day20" then "day21_to_day40" and I'll keep building up more as I progress more.
+## Structure 📊
+Replit's 100 days of code is a tough challenge. So to keep this repository from getting cluttered, I have divided days into folders with an increment of 20 days. So, we have a folder named "day14_to_day20" then "day21_to_day40" and I'll keep building up more as I progress more.
 
 Now each of these folders have the template- DayX_What I built/What I learnt that day. 
 These folders will have 2 files:
 - README.md - Gives description of what I learnt, what I built and what new things I used to build the program I did build lol.
 - Code.py - my code for that program
 
-## Challenge Progress
+## Challenge Progress 📅
 
 | Day | Topic                       | Link                                                          |
 |-----|-----------------------------|---------------------------------------------------------------|
@@ -34,27 +34,28 @@ These folders will have 2 files:
 | 28  | Character Battle            | [Day_ 28](./day21_to_day40/Day28_Character_Battle)            |
 | 29  | Coming soon...              |                                                               |
 
-## Purpose
+## Purpose 🧠
 This repo is for:
 - **Beginners**: Structured learning with real examples.
 - **Learners** : Path for python mastery.
 - **Collaborators**: Join the journey, fork the repo, or suggest improvements.
-## Tools Used
+  
+## Tools Used 🛠️
 - Replit
 - Pycharm
 - Github (duh)
 
-## Support This Project
+## Support This Project ❤️
   If this helps or inspires anyone, please give it a ⭐ - it really motivates me to keep building!
   
   Also do follow me to track updates!
 
-## Feedback & Collaboration
+## Feedback & Collaboration 🤝
 If anyone would like to suggest some better ways, or better code or anything really, please open an issue or start a discussion.
 
-Constructive critism anf feedbacks are always welcomed.
+Constructive critism and feedbacks are always welcomed.
 
-Thankyou!
+✨Thankyou!✨
 
 ___
 
