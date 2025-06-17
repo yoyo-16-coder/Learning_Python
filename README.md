@@ -21,25 +21,26 @@ These folders will have 2 files:
 
 ## Challenge Progress 📅
 
-    | Day | Topic                       | Link                                                                                           |
-    |-----|-----------------------------|------------------------------------------------------------------------------------------------|
-    | 14  | Rock Paper Scissors         | [Day 14](.Replit_100_Days_Code_Challenge/day14_to_day20/Day14_Rock_Paper_and_Scissors)         |
-    | 15  | Animal Sound Generator      | [Day 15](Replit_100_Days_Code_Challenge/day14_to_day20/Day15_Animal_Sound_Generator)           |
-    | 16  | Fill-in the blank lyrics    | [Day 16](Replit_100_Days_Code_Challenge/day14_to_day20/Day16_Fill-in_the_blank_lyrics)         |
-    | 17  | Rock Paper Scissors Part 2  | [Day 17](Replit_100_Days_Code_Challenge/day14_to_day20/Day17_Rock_paper_and_scissors_Part_2)   |
-    | 18  | Number Guessing Game        | [Day 18](Replit_100_Days_Code_Challenge/day14_to_day20/Day18_Number_Guessing_Game)             |
-    | 19  | Loan Calculator             | [Day 19](Replit_100_Days_Code_Challenge/day14_to_day20/Day19_Loan_Calculator)                  |
-    | 20  | List Generator              | [Day 20](Replit_100_Days_Code_Challenge/day14_to_day20/Day20_List_Generator)                   |
-    | 21  | Multiplication Quiz         | [Day 21](Replit_100_Days_Code_Challenge/day21_to_day40/Day21_Multiplication_Quiz)              |
-    | 22  | Number Guessing Game Part 2 | [Day 22](Replit_100_Days_Code_Challenge/day21_to_day40/Day22_Number_Guessing_Game_Part_2)      |
-    | 23  | Login System                | [Day 23](Replit_100_Days_Code_Challenge/day21_to_day40/Day23_Login_System)                     |
-    | 24  | Infinity Dice               | [Day 24](Replit_100_Days_Code_Challenge/day21_to_day40/Day24_Infinity_Dice)                    |
-    | 25  | Character Generator         | [Day 25](Replit_100_Days_Code_Challenge/day21_to_day40/Day25_Character_Generator)              |
-    | 26  | Sound Player                | [Day 26](Replit_100_Days_Code_Challenge/day21_to_day40/Day26_Sound_Player)                     |
-    | 27  | Character Builder           | [Day 27](Replit_100_Days_Code_Challenge/day21_to_day40/Day27_Character_Builder)                |
-    | 28  | Character Battle            | [Day 28](Replit_100_Days_Code_Challenge/day21_to_day40/Day28_Character_Battle)                 |
-    | 29  | Explore Print               | [Day 29](Replit_100_Days_Code_Challenge/day21_to_day40/Day29_Explore_print)                    |
-    | 30  | f-strings                   | [Day 30](Replit_100_Days_Code_Challenge/day21_to_day40/Day30_f-strings)                        |                                       | 31  | Coming soon...              |                                                                                                |
+| Day | Topic                       | Link                                                                                           |
+|-----|-----------------------------|------------------------------------------------------------------------------------------------|
+| 14  | Rock Paper Scissors         | [Day 14](.Replit_100_Days_Code_Challenge/day14_to_day20/Day14_Rock_Paper_and_Scissors)         |
+| 15  | Animal Sound Generator      | [Day 15](Replit_100_Days_Code_Challenge/day14_to_day20/Day15_Animal_Sound_Generator)           |
+| 16  | Fill-in the blank lyrics    | [Day 16](Replit_100_Days_Code_Challenge/day14_to_day20/Day16_Fill-in_the_blank_lyrics)         |
+| 17  | Rock Paper Scissors Part 2  | [Day 17](Replit_100_Days_Code_Challenge/day14_to_day20/Day17_Rock_paper_and_scissors_Part_2)   |
+| 18  | Number Guessing Game        | [Day 18](Replit_100_Days_Code_Challenge/day14_to_day20/Day18_Number_Guessing_Game)             |
+| 19  | Loan Calculator             | [Day 19](Replit_100_Days_Code_Challenge/day14_to_day20/Day19_Loan_Calculator)                  |
+| 20  | List Generator              | [Day 20](Replit_100_Days_Code_Challenge/day14_to_day20/Day20_List_Generator)                   |
+| 21  | Multiplication Quiz         | [Day 21](Replit_100_Days_Code_Challenge/day21_to_day40/Day21_Multiplication_Quiz)              |
+| 22  | Number Guessing Game Part 2 | [Day 22](Replit_100_Days_Code_Challenge/day21_to_day40/Day22_Number_Guessing_Game_Part_2)      |
+| 23  | Login System                | [Day 23](Replit_100_Days_Code_Challenge/day21_to_day40/Day23_Login_System)                     |
+| 24  | Infinity Dice               | [Day 24](Replit_100_Days_Code_Challenge/day21_to_day40/Day24_Infinity_Dice)                    |
+| 25  | Character Generator         | [Day 25](Replit_100_Days_Code_Challenge/day21_to_day40/Day25_Character_Generator)              |
+| 26  | Sound Player                | [Day 26](Replit_100_Days_Code_Challenge/day21_to_day40/Day26_Sound_Player)                     |
+| 27  | Character Builder           | [Day 27](Replit_100_Days_Code_Challenge/day21_to_day40/Day27_Character_Builder)                |
+| 28  | Character Battle            | [Day 28](Replit_100_Days_Code_Challenge/day21_to_day40/Day28_Character_Battle)                 |
+| 29  | Explore Print               | [Day 29](Replit_100_Days_Code_Challenge/day21_to_day40/Day29_Explore_print)                    |
+| 30  | f-strings                   | [Day 30](Replit_100_Days_Code_Challenge/day21_to_day40/Day30_f-strings)                        |
+| 31  | Coming soon...              |                                                                                                |
 
 ## Purpose 🧠
 This repo is for:
