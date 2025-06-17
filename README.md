@@ -57,7 +57,7 @@ This repo is for:
 
 - [Security Policy](.github/SECURITY.md)
 
-- Feature/Bug Templates
+- [Feature/Bug Templates](.github/ISSUE_TEMPLATE)
 
 
 ## Support This Project ❤️
