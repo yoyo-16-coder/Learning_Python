@@ -1,12 +1,14 @@
 # Python_100_days_challenge 🚀
 
- Welcome to my **Python 100 Days of Code** journey!
+ Welcome to my **Python Learning** journey!
 
- I'm documenting my learning, one day at a time, with Replit's python excercises, projects and concepts.
+ I'm documenting my learning, one day at a time, with python excercises, projects and concepts.
+ As of now I have started with Replit 100 days of code, I'll continue to expand as I learn more.
 
 
 ## Structure 📊
-Replit's 100 days of code is a tough challenge. So to keep this repository from getting cluttered, I have divided days into folders with an increment of 20 days. So, we have a folder named "day14_to_day20" then "day21_to_day40" and I'll keep building up more as I progress more.
+
+Learning python is no easy work. So to keep this repository from getting cluttered, I have divided it into specific folders, like for replit's challenge I have divided days into folders with an increment of 20 days. So, we have a folder named "day14_to_day20" then "day21_to_day40" and I'll keep building up more as I progress more.
 
 Now each of these folders have the template- DayX_What I built/What I learnt that day. 
 These folders will have 2 files:
