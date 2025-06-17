@@ -1,10 +1,14 @@
 # Python_100_days_challenge 🚀
 
- Welcome to my **Python Learning** journey!
+Welcome! This is my personal journey into learning Python — one of the most powerful and versatile programming languages in the world.
 
- I'm documenting my learning, one day at a time, with python excercises, projects and concepts.
- As of now I have started with Replit 100 days of code, I'll continue to expand as I learn more.
+Originally started as a 100 Days of Code challenge, this project has now evolved into a long-term learning log, code base, and open-source journal of everything I discover as I explore Python, one concept at a time.
+As of now I have started with Replit 100 days of code, I'll continue to expand as I learn more.
 
+## ✨ Goals
+- Learn Python fundamentals deeply
+
+- Practice clean, readable code
 
 ## Structure 📊
 
@@ -45,7 +49,15 @@ This repo is for:
 ## Tools Used 🛠️
 - Replit
 - Pycharm
-- Github (duh)
+- Github
+
+🛡️ Community & Standards
+Code of Conduct
+
+.github/SECURITY.md
+
+Feature/Bug Templates
+
 
 ## Support This Project ❤️
   If this helps or inspires anyone, please give it a ⭐ - it really motivates me to keep building!
@@ -53,7 +65,7 @@ This repo is for:
   Also do follow me to track updates!
 
 ## Feedback & Collaboration 🤝
-If anyone would like to suggest some better ways, or better code or anything really, please open an issue or start a discussion.
+If anyone would like to suggest some better ways, or better code or anything really, please open an issue or start a discussion. See the CONTRIBUTING.md file to learn how to open issues or send pull requests.
 
 Constructive critism and feedbacks are always welcomed.
 
