@@ -39,7 +39,7 @@ These folders will have 2 files:
   | 27  | Character Builder           | [Day 27](Replit_100_Days_Code_Challenge/day21_to_day40/Day27_Character_Builder)                |
   | 28  | Character Battle            | [Day 28](Replit_100_Days_Code_Challenge/day21_to_day40/Day28_Character_Battle)                 |
   | 29  | Explore Print               | [Day 29](Replit_100_Days_Code_Challenge/day21_to_day40/Day29_Explore_print)                    |
-  | 30  | Coming soon...              |                                                                                                |
+  | 30  | f-strings                   | [Day 30](Replit_100_Days_Code_Challenge/day21_to_day40/Day30_f-strings)                        |                                       | 31  | Coming soon...              |                                                                                                |
 
 ## Purpose 🧠
 This repo is for:
