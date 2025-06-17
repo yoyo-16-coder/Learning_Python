@@ -52,9 +52,9 @@ This repo is for:
 - Github
 
 🛡️ Community & Standards
-Code of Conduct
+[Code of Conduct](CODE_OF_CONDUCT.md)
 
-.github/SECURITY.md
+[Security Policy](.github/SECURITY.md)
 
 Feature/Bug Templates
 
@@ -65,7 +65,7 @@ Feature/Bug Templates
   Also do follow me to track updates!
 
 ## Feedback & Collaboration 🤝
-If anyone would like to suggest some better ways, or better code or anything really, please open an issue or start a discussion. See the CONTRIBUTING.md file to learn how to open issues or send pull requests.
+If anyone would like to suggest some better ways, or better code or anything really, please open an issue or start a discussion. See the [Contributing.md file](.github/CONTRIBUTING.md) to learn how to open issues or send pull requests.
 
 Constructive critism and feedbacks are always welcomed.
 
