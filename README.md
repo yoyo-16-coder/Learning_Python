@@ -1,4 +1,4 @@
-# Python_100_days_challenge 🚀
+# A Beginner Guide To Python 🚀
 
 Welcome! This is my personal journey into learning Python — one of the most powerful and versatile programming languages in the world.
 
