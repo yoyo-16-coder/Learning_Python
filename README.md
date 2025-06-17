@@ -51,12 +51,13 @@ This repo is for:
 - Pycharm
 - Github
 
-🛡️ Community & Standards
-[Code of Conduct](CODE_OF_CONDUCT.md)
+## Community & Standards 🛡️
 
-[Security Policy](.github/SECURITY.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 
-Feature/Bug Templates
+- [Security Policy](.github/SECURITY.md)
+
+- Feature/Bug Templates
 
 
 ## Support This Project ❤️
