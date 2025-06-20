@@ -38,7 +38,7 @@ while True:
     count = count
     dowhat = input("Do you want to view, add or edit the to do list?")
     if dowhat == "view":
-        os.system("cls")
+        os.system("clear")
         time.sleep(1)
         title = f"{cc('Blue')}To Do List""\033[0m"
         print(f"                                \t{title: ^100}")
@@ -47,7 +47,7 @@ while True:
             print("Your to-do list is empty.")
         else:
             printlist()
-        time.sleep(0)
+        time.sleep(7)
         os.system("clear")
     elif dowhat == "add":
         print("What do you want to add?")
@@ -56,7 +56,7 @@ while True:
         count = count + 1
         print()
         print(f"{addremove} was successfully added your list.")
-        time.sleep(0)
+        time.sleep(5)
         os.system("clear")
 
     elif dowhat == "edit":
@@ -68,5 +68,5 @@ while True:
             count = count - 1
         else:
             print(f"{addremove} doesn't exist in your list.")
-        time.sleep(0)
+        time.sleep(5)
         os.system("clear")
