@@ -1,72 +1,79 @@
 print()
-print("ALEXA TO DO LIST MANAGER ")
-print()
-
 import os, time
-
-ToDoList = []
-count = 0
-
-def printlist():
-        for addremove in ToDoList:
-            print(f"\033[32m {addremove} \033[0m", sep=" ")
-
-
+List = []
+def prettyprinting():
+    print()
+    print(f"{cc('Blue'): ^90} Your To-Do List \033[0m")
+    for index in range(len(List)):
+        print(f"{index+1}. {List[index]}")
 
 def cc(color):
-    if color == "Black":
+  if color == "Black":
         return("\033[30m")
-    elif color == "Red":
+  elif color == "Red":
         return("\033[31m")
-    elif color == "Green":
+  elif color == "Green":
         return("\033[32m")
-    elif color == "Yellow":
+  elif color == "Yellow":
         return("\033[33m")
-    elif color == "Blue":
+  elif color == "Blue":
         return("\033[34m")
-    elif color == "Magenta":
+  elif color == "Magenta":
         return("\033[35m")
-    elif color == "Cyan":
+  elif color == "Cyan":
         return("\033[36m")
-    elif color == "White":
+  elif color == "White":
         return("\033[37m")
-    else:
+  else:
         return("\033[39m")
 
-while True:
-    print()
-    count = count
-    dowhat = input("Do you want to view, add or edit the to do list?")
-    if dowhat == "view":
-        os.system("clear")
-        time.sleep(1)
-        title = f"{cc('Blue')}To Do List""\033[0m"
-        print(f"                                \t{title: ^100}")
-        print()
-        if count == 0:
-            print("Your to-do list is empty.")
-        else:
-            printlist()
-        time.sleep(7)
-        os.system("clear")
-    elif dowhat == "add":
-        print("What do you want to add?")
-        addremove = input()
-        ToDoList.append(addremove)
-        count = count + 1
-        print()
-        print(f"{addremove} was successfully added your list.")
-        time.sleep(5)
-        os.system("clear")
 
-    elif dowhat == "edit":
-        print("What do you want to remove?")
-        addremove = input()
-        if addremove in ToDoList:
-            ToDoList.remove(addremove)
-            print(f"{addremove} was successfully removed from your list.")
-            count = count - 1
+while True:
+    time.sleep(2)
+    os.system("cls")
+    print()
+    print("Do you want to view, add or remove or edit the to do list?")
+    dowhat = input()
+    if dowhat == "add":
+        print("What would you like to add?")
+        change = input()
+        print()
+        if change in List:
+            print(f"{change} already exists in the list.")
         else:
-            print(f"{addremove} doesn't exist in your list.")
-        time.sleep(5)
-        os.system("clear")
+            List.append(change)
+            print(f"{change} was successfully added to your list.")
+    elif dowhat == "remove":
+        print("What would you like to remove?")
+        change = input()
+        print()
+        if change in List:
+            List.append(change)
+            print(f"{change} was successfully removed from your list.")
+        else:
+            print(f"{change} was not found in the list.")
+    elif dowhat == "view":
+        prettyprinting()
+    elif dowhat == "edit":
+        print()
+        for i in range(1, len(List)+1):
+            print("What item do you want to change? Please write the index no.")
+            io = int(input())
+            for i in range(len(List)):
+                print(i)
+                print("What would you like to change it into?")
+                change = input()
+                List[i] = change
+                print(f"{i+1} item was successfully changed to {change}.")
+                break
+            break
+
+
+        prettyprinting()
+
+
+
+
+
+
+
