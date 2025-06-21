@@ -40,7 +40,12 @@ These folders will have 2 files:
 | 28  | Character Battle            | [Day 28](Replit_100_Days_Code_Challenge/day21_to_day40/Day28_Character_Battle)                 |
 | 29  | Explore Print               | [Day 29](Replit_100_Days_Code_Challenge/day21_to_day40/Day29_Explore_print)                    |
 | 30  | f-strings                   | [Day 30](Replit_100_Days_Code_Challenge/day21_to_day40/Day30_f-strings)                        |
-| 31  | Coming soon...              |                                                                                                |
+| 31  | Designing User Interface    | [Day 31](Replit_100_Days_Code_Challenge/day21_to_day40/Day31_Designing_ANSI_colors)            |
+| 32  | Lists                       | [Day 32](Replit_100_Days_Code_Challenge/day21_to_day40/Day32_Exploring_Lists)                  |
+| 33  | To-Do List                  | [Day 33](Replit_100_Days_Code_Challenge/day21_to_day40/Day33_To-Do_List)                       |
+| 34  | Email Spammer               | [Day 34](Replit_100_Days_Code_Challenge/day21_to_day40/Day34_Email_Spam)                       |
+| 35  | Ultimate List Maker         | [Day 35](Replit_100_Days_Code_Challenge/day21_to_day40/Day35_ULTIMATE_List_Maker)              |
+| 36  | Coming soon...              |                                                                                                |
 
 ## Purpose 🧠
 This repo is for:
