@@ -18,6 +18,7 @@ Now each of these folders have the template- DayX_What I built/What I learnt tha
 These folders will have 2 files:
 - README.md - Gives description of what I learnt, what I built and what new things I used to build the program I did build lol.
 - Code.py - my code for that program
+- Beginning to add videos of running my code
 
 ## Challenge Progress 📅
 
