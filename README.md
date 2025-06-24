@@ -52,7 +52,7 @@ These folders will have 2 files:
 | 39  | Coming soon... HANGMAN!     |                                                                                                |
 
 ## Purpose 🧠
-This repo is for:
+This repo is for :
 - **Beginners**: Structured learning with real examples.
 - **Learners** : Path for python mastery.
 - **Collaborators**: Join the journey, fork the repo, or suggest improvements.
