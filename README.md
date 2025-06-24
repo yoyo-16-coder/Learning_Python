@@ -46,8 +46,10 @@ These folders will have 2 files:
 | 33  | To-Do List                  | [Day 33](Replit_100_Days_Code_Challenge/day21_to_day40/Day33_To-Do_List)                       |
 | 34  | Email Spammer               | [Day 34](Replit_100_Days_Code_Challenge/day21_to_day40/Day34_Email_Spam)                       |
 | 35  | Ultimate List Maker         | [Day 35](Replit_100_Days_Code_Challenge/day21_to_day40/Day35_ULTIMATE_List_Maker)              |
-| 36  | Name_List                   | [Day 36](Replit_100_Days_Code_Challenge/day21_to_day40/Day36_Name_List)                        |
-| 37  | Coming soon...              |                                                                                                |
+| 36  | Name List                   | [Day 36](Replit_100_Days_Code_Challenge/day21_to_day40/Day36_Name_List)                        |
+| 37  | StarWars Name Generator     | [Day 37](Replit_100_Days_Code_Challenge/day21_to_day40/Day37_StarWars_Name_Generator)          |
+| 38  | Rainbow Sentences           | [Day 38](Replit_100_Days_Code_Challenge/day21_to_day40/Day38_Rainbow_Sentence)                 |
+| 39  | Coming soon... HANGMAN!     |                                                                                                |
 
 ## Purpose 🧠
 This repo is for:
