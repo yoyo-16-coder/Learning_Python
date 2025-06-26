@@ -9,73 +9,56 @@ Chosen_One = random.choice(listOfWords)
 lettersUsed = []
 
 
-
-hangman_stages = [
-    """
-     -----
-     |   |
-     O   |
-    /|\\  |
-    / \\  |
-         |
-    =========
-    """,
-    """
-     -----
-     |   |
-     O   |
-    /|\\  |
-    /    |
-         |
-    =========
-    """,
-    """
-     -----
-     |   |
-     O   |
-    /|\\  |
-         |
-         |
-    =========
-    """,
-    """
-     -----
-     |   |
-     O   |
-    /|   |
-         |
-         |
-    =========
-    """,
-    """
-     -----
-     |   |
-     O   |
-     |   |
-         |
-         |
-    =========
-    """,
-    """
-     -----
-     |   |
-     O   |
-         |
-         |
-         |
-    =========
-    """,
-    """
-     -----
-     |   |
-         |
-         |
-         |
-         |
-    =========
-    """
-]
-
+HANGMANPICS = ['''
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========''']
 def editing():
     count = 6
     list = ["_" for _ in Chosen_One]
@@ -93,7 +76,7 @@ def editing():
                 print()
                 print(f"Congrats, you got a letter correct. You have {count} lives left.")
                 print()
-                print(hangman_stages[6 - count])
+                print(HANGMANPICS[6 -count])
 
 
             elif Userletter not in Chosen_One:
@@ -103,7 +86,7 @@ def editing():
                 count = count - 1
                 print(f"Nope, its not there.You have {count} lives left.")
                 print()
-                print(hangman_stages[6 - count])
+                print(HANGMANPICS[6 -count])
 
 
             
@@ -123,5 +106,3 @@ def editing():
         
 editing() 
         
-
- 
