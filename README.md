@@ -49,7 +49,9 @@ These folders will have 2 files:
 | 36  | Name List                   | [Day 36](Replit_100_Days_Code_Challenge/day21_to_day40/Day36_Name_List)                        |
 | 37  | StarWars Name Generator     | [Day 37](Replit_100_Days_Code_Challenge/day21_to_day40/Day37_StarWars_Name_Generator)          |
 | 38  | Rainbow Sentences           | [Day 38](Replit_100_Days_Code_Challenge/day21_to_day40/Day38_Rainbow_Sentence)                 |
-| 39  | Coming soon... HANGMAN!     |                                                                                                |
+| 39  | HANGMAN :D                  | [Day 39](Replit_100_Days_Code_Challenge/day21_to_day40/Day39_HANGMAN)                          |
+| 39  | Coming soon...              |                                                                                                |
+
 
 ## Purpose 🧠
 This repo is for :
