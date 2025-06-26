@@ -8,6 +8,74 @@ Chosen_One = random.choice(listOfWords)
 
 lettersUsed = []
 
+
+
+hangman_stages = [
+    """
+     -----
+     |   |
+     O   |
+    /|\\  |
+    / \\  |
+         |
+    =========
+    """,
+    """
+     -----
+     |   |
+     O   |
+    /|\\  |
+    /    |
+         |
+    =========
+    """,
+    """
+     -----
+     |   |
+     O   |
+    /|\\  |
+         |
+         |
+    =========
+    """,
+    """
+     -----
+     |   |
+     O   |
+    /|   |
+         |
+         |
+    =========
+    """,
+    """
+     -----
+     |   |
+     O   |
+     |   |
+         |
+         |
+    =========
+    """,
+    """
+     -----
+     |   |
+     O   |
+         |
+         |
+         |
+    =========
+    """,
+    """
+     -----
+     |   |
+         |
+         |
+         |
+         |
+    =========
+    """
+]
+
 def editing():
     count = 6
     list = ["_" for _ in Chosen_One]
@@ -21,16 +89,22 @@ def editing():
                     if Chosen_One[i] == Userletter:
                         list[i] = Userletter
                 print()
-                print(list)
+                print(list[:])
                 print()
                 print(f"Congrats, you got a letter correct. You have {count} lives left.")
+                print()
+                print(hangman_stages[6 - count])
+
 
             elif Userletter not in Chosen_One:
                 print()
-                print(list)
+                print(list[:])
                 print()
                 count = count - 1
                 print(f"Nope, its not there.You have {count} lives left.")
+                print()
+                print(hangman_stages[6 - count])
+
 
             
         else: 
@@ -40,11 +114,14 @@ def editing():
         print("You won! The word was:", Chosen_One)
         exit()
     elif count == 0:
+        print()
+
         print("You lost. The word was:", Chosen_One)
+        print()
+       
 
         
 editing() 
         
 
-    
-
+ 
