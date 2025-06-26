@@ -6,12 +6,12 @@ listOfWords = ["burger", "pastries","steak","cricket","talent","scissors","brush
 
 Chosen_One = random.choice(listOfWords)
 
-
+lettersUsed = []
 
 def editing():
     count = 6
     list = ["_" for _ in Chosen_One]
-    letterUsed = []
+    lettersUsed = []
     while count > 0 and "_" in list:
         Userletter = input("Choose a letter: ").strip().lower()
         if Userletter not in lettersUsed:
