@@ -22,9 +22,9 @@ These folders will have 2 files:
 
 ## Challenge Progress 📅
 
-| Day | Topic                       | Link                                                                                           |
-|-----|-----------------------------|------------------------------------------------------------------------------------------------|
-| 14  | Rock Paper Scissors         | [Day 14](.Replit_100_Days_Code_Challenge/day14_to_day20/Day14_Rock_Paper_and_Scissors)         |
+| Day | Topic                       | Link                                                                                           |    | Day | Topic                       | Link                                                                                           |
+|-----|-----------------------------|------------------------------------------------------------------------------------------------|    |-----|-----------------------------|------------------------------------------------------------------------------------------------|
+| 14  | Rock Paper Scissors         | [Day 14](.Replit_100_Days_Code_Challenge/day14_to_day20/Day14_Rock_Paper_and_Scissors)         |    | 41  | Coming Soon...              |       (.Replit_100_Days_Code_Challenge/day14_to_day20/Day14_Rock_Paper_and_Scissors)         |
 | 15  | Animal Sound Generator      | [Day 15](Replit_100_Days_Code_Challenge/day14_to_day20/Day15_Animal_Sound_Generator)           |
 | 16  | Fill-in the blank lyrics    | [Day 16](Replit_100_Days_Code_Challenge/day14_to_day20/Day16_Fill-in_the_blank_lyrics)         |
 | 17  | Rock Paper Scissors Part 2  | [Day 17](Replit_100_Days_Code_Challenge/day14_to_day20/Day17_Rock_paper_and_scissors_Part_2)   |
@@ -50,7 +50,7 @@ These folders will have 2 files:
 | 37  | StarWars Name Generator     | [Day 37](Replit_100_Days_Code_Challenge/day21_to_day40/Day37_StarWars_Name_Generator)          |
 | 38  | Rainbow Sentences           | [Day 38](Replit_100_Days_Code_Challenge/day21_to_day40/Day38_Rainbow_Sentence)                 |
 | 39  | HANGMAN :D                  | [Day 39](Replit_100_Days_Code_Challenge/day21_to_day40/Day39_HANGMAN)                          |
-| 39  | Coming soon...              |                                                                                                |
+| 40  | Contact Card                | [Day 40](Replit_100_Days_Code_Challenge/day21_to_day40/Day40_Contact_Card)                     |
 
 
 ## Purpose 🧠
