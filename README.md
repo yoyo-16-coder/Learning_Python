@@ -54,7 +54,8 @@ Check out my new folder that contains [my experiments with python](My_Experiment
 | 38  | Rainbow Sentences           | [Day 38](Replit_100_Days_Code_Challenge/day21_to_day40/Day38_Rainbow_Sentence)                 |
 | 39  | HANGMAN :D                  | [Day 39](Replit_100_Days_Code_Challenge/day21_to_day40/Day39_HANGMAN)                          |
 | 40  | Contact Card                | [Day 40](Replit_100_Days_Code_Challenge/day21_to_day40/Day40_Contact_Card)                     |
-| 41  | Coming Soon...              |                                                                                                |
+| 41  | Dictionaries with Loop      | [Day 41](Replit_100_Days_Code_Challenge/day41_to_day60/Day41_Looping_Dictionaries)             |
+| 42  | Coming Soon...              |                                                                                                |
 
 
 ## Purpose 🧠
