@@ -72,6 +72,9 @@ This repo is for :
 - Replit
 - Pycharm
 - Github
+- Anaconda
+- Streamlit
+- Google Colab
 
 ## Community & Standards 🛡️
 
