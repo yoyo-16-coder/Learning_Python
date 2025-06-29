@@ -5,7 +5,7 @@ print()
 
 def encrypt():
   for letter in message:
-    if letter in alphabet:
+    if letter.lower() in alphabet:
       i = alphabet.index(letter)
       try: 
         new_alphabet = alphabet[i + key]
@@ -18,7 +18,7 @@ def encrypt():
       
 def decrypt():
   for letter in message:
-    if letter in alphabet:
+    if letter.lower() in alphabet:
       i = alphabet.index(letter)
       try: 
         new_alphabet = alphabet[i - key]
