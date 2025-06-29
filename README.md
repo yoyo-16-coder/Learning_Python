@@ -20,10 +20,10 @@ These folders will have 2 files:
 - Code.py - my code for that program
 - Beginning to add videos of running my code
 
-#NEW FOLDER!
+# NEW FOLDER!
 Check out my new folder that contains [my experiments with python](My_Experiments)
 
-#UPDATE!
+# MY VERY FIRST WEBSITE!
 I recently made a site using streamlit to upload my personal games or projects or experiments there. Here's the [link](https://learningpython-gweqndg2tn5x2wkhd6pzrv.streamlit.app/)!
 
 ## Challenge Progress 📅
