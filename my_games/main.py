@@ -9,4 +9,4 @@ game = st.selectbox("Choose a game to play:",
 st.markdown("---")
 
 if game == "Caesar Cipher":
-    CAESAR_CIPHER.app()
+    CAESAR_CIPHER.py()
