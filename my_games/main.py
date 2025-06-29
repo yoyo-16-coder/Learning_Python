@@ -1,7 +1,5 @@
 import streamlit as st
-import caesar_cipher
-import hangman
-import tic_tac_toe
+import CAESAR_CIPHER
 
 st.title("🎮 Mini Games Hub")
 
