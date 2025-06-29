@@ -23,6 +23,9 @@ These folders will have 2 files:
 #NEW FOLDER!
 Check out my new folder that contains [my experiments with python](My_Experiments)
 
+#UPDATE!
+I recently made a site using streamlit to upload my personal games or projects or experiments there. Here's the [link](https://learningpython-gweqndg2tn5x2wkhd6pzrv.streamlit.app/)!
+
 ## Challenge Progress 📅
 
 | Day | Topic                       | Link                                                                                           |  
