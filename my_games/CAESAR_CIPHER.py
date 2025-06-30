@@ -23,7 +23,6 @@ def app():
           result += letter
       return result
 
-    st.title("Caesar Cipher")
     st.subheader("Encrypt your secret message!")
 
     message = st.text_input("Enter your message: ")
