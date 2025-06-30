@@ -4,89 +4,89 @@ def app():
   import random
   listOfWords = ["tape", "mice","necklace","paris","talent","shirt","mouse","points","yellow","pants"]
   HANGMANPICS = ['''
-         +-------------+
-         |             |
-         |             |
-                       |
-                       |
-                       |
-                       |
-                       |
-                       |
-                       |
-          ================''', '''
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''', '''
   
-         +-------------+
-         |             |
-         |             |
-         O             |
-                       |
-                       |
-                       |
-                       |
-                       |
-                       |
-          ================''', '''
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                    O             |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''', '''
   
-         +-------------+
-         |             |
-         |             |
-         O             |
-         |             |
-                       |
-                       |
-                       |
-                       |
-                       |
-          ================''', '''
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                    O             |
+                                    |             |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''', '''
   
-         +-------------+
-         |             |
-         |             |
-         O             |
-        /|             |
-                       |
-                       |
-                       |
-                       |
-                       |
-          ================''', '''
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                    O             |
+                                   /|             |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''', '''
   
-         +-------------+
-         |             |
-         |             |
-         O             |
-        /|\            |
-                       |
-                       |
-                       |
-                       |
-                       |
-          ================''', '''
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                    O             |
+                                   /|\            |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''', '''
   
-         +-------------+
-         |             |
-         |             |
-         O             |
-        /|\            |
-        /              |
-                       |
-                       |
-                       |
-                       |
-          ================''', '''
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                    O             |
+                                   /|\            |
+                                   /              |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''', '''
   
-         +-------------+
-         |             |
-         |             |
-         O             |
-        /|\            |
-        / \            |
-                       |
-                       |
-                       |
-                       |
-          ================''']
+                                    +-------------+
+                                    |             |
+                                    |             |
+                                    O             |
+                                   /|\            |
+                                   / \            |
+                                                  |
+                                                  |
+                                                  |
+                                                  |
+                                      ================''']
   
   if "Chosen_One" not in st.session_state:
     st.session_state.listOfWords = ["tape", "mice","necklace","paris","talent","shirt","mouse","points","yellow","pants"]
@@ -101,15 +101,19 @@ def app():
   
   st.title("HANGMAN")
   st.write("\n")
-  st.subheader(" ".join(st.session_state.list))
+  st.markdown(
+      f"<h4 style='text-align: center; font-size: 28px;'>Letters Used: {', '.join(st.session_state.lettersUsed)}</h4>",
+      unsafe_allow_html=True
+  )
   st.write("\n")
-  st.write("Letter's used:" ,", " .join(st.session_state.lettersUsed))
+  st.markdown(
+      f"<div style='text-align: center; font-size: 24px;'>{' '.join(st.session_state.list)}</div>",
+      unsafe_allow_html=True
+  )
   st.write("\n")
   st.code(HANGMANPICS[6 - st.session_state.count])
   st.write("\n")
-  st.write("Lives Remaining:") 
-  st.write("♥ " * st.session_state.count)
-  st.write("\n")
+  
   
   
   
@@ -156,13 +160,23 @@ def app():
   
   if st.session_state.game_over:
     if st.session_state.count == 0:
-      st.error(f"You lost! The word was: {st.session_state.Chosen_One}")
+      st.error(f"You lost! The word was: **{st.session_state.Chosen_One}**")
       if st.button("Play Again"):
         st.session_state.clear()
         st.rerun()
     else:
-      st.success(f"You won! The word was: {st.session_state.Chosen_One}")
+      st.success(f"You won! The word was: **{st.session_state.Chosen_One}**")
       if st.button("Play Again"):
         st.session_state.clear()
         st.rerun()
-  
+
+
+
+
+
+
+
+
+
+
+
