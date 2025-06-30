@@ -130,14 +130,13 @@ def app():
               st.success(f"You won! The word was: {st.session_state.Chosen_One}")
             else:
               st.session_state.feedback = "correct"
+  else:
+    st.session_state.count -= 1
+    if st.session_state.count == 0:
+      st.session_state.game_over = True
+      st.rerun()   
     else:
-      st.session_state.count -= 1
-      if st.session_state.count == 0:
-        st.session_state.game_over = True
-        st.rerun()
-          
-        else:
-          st.session_state.feedback = "wrong"
+      st.session_state.feedback = "wrong"
 
 
   if "feedback" in st.session_state:
