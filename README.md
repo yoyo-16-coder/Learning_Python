@@ -60,7 +60,8 @@ I recently made a site using streamlit to upload my personal games or projects o
 | 41  | Dictionaries with Loop      | [Day 41](Replit_100_Days_Code_Challenge/day41_to_day60/Day41_Looping_Dictionaries)             |
 | 42  | MokeBeast                   | [Day 42](Replit_100_Days_Code_Challenge/day41_to_day60/Day42_MokeBeast)                        |
 | 43  | Bingo Card                  | [Day 43](Replit_100_Days_Code_Challenge/day41_to_day60/Day43_Bingo_Card)                       |
-| 44  | Coming soon...              |                                                                                                |
+| 44  | Bingo Card Game             | [Day 44](Replit_100_Days_Code_Challenge/day41_to_day60/Day44_Bingo_Card_Game)                  |
+| 45  | Coming soon...              | [Day 45](Replit_100_Days_Code_Challenge/day41_to_day60/Day44_Bingo_Card_Game)                  |
 
 
 ## Purpose 🧠
