@@ -1,15 +1,10 @@
 import time,os
 todolist = []
 
-def prettyprint(number):
-    if number == 1:
-        print()
-    row = []
-    if all(row not in todolist):
-            print("Your To-Do List is empty.")
-    else:    
-        for row in todolist:
-            print("\t")
+def prettyprint():
+    print()
+    for row in todolist:
+        print("\t")
         for item in row:
             print(f"{item:^10}", end=" | ")
     print()
@@ -38,7 +33,7 @@ def view():
         2. View priority""")
     subcat = int(input(">"))
     if subcat == 1:
-        prettyprint(1)
+        prettyprint()
     if subcat == 2:
         priorlvl = input("Which Priority(High/Medium/Low)? >").strip().capitalize()
         for row in todolist:
@@ -61,9 +56,6 @@ def remove():
         if removewhat in row[0]:
             todolist.remove(row)
             print(f"{removewhat} successfully removed.")
-
-
-                
 
 def edit():
     os.system("clear")
@@ -106,6 +98,3 @@ while True:
         remove()
     if dowhat == 4:
         edit()
-                           
-                
-
